@@ -1,0 +1,171 @@
+/*
+* {
+	border: 1px solid red;
+}
+*/
+
+body {
+	background-color: #C5DBDB;
+	font-family: "Open Sans", "Helvetica", sans-serif;
+	font-size: 1.5rem;
+	padding-bottom: 60px;
+	color: #2B2B2B;
+}
+
+/*-----CUSTOM NAVBAR STYLING-----*/
+
+
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+
+.navbar-default .navbar-toggle,
+.navbar-default .bavbar-toggle:focus,
+.navbar-default .navbar-toggle:visited,
+.navbar-default .navbar-toggle:active  {
+	border: none;
+	background-color: #2B2B2B
+} 
+
+
+.navbar-default .navbar-toggle:link,
+.navbar-default .navbar-toggle:hover{
+	border: none;
+	background-color: #C5DBDB;
+}
+
+.navbar-default {
+    background-color: #2B2B2B;
+    border: none;
+}
+
+.navbar-default .navbar-brand {
+	font-weight: 800;
+	font-size: 2.2rem;
+    color: #fff;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #fff;
+}
+
+.navbar-default .navbar-nav>li>a {
+	font-size: 2rem;
+	font-weight: 300;
+	color: #C5DBDB;
+}
+
+.navbar-default .navbar-nav>li>a:hover,
+.navbar-default .navbar-nav>li>a:focus {
+	color: #fff;
+}
+
+
+/*-------------------------------*/
+
+
+
+h1 {
+	font-size: 5rem;
+	line-height: 120%;
+	padding: 70px 0 30px 0;
+}
+
+h1 span {
+	font-weight: 700;
+}
+
+h3 {
+	font-size: 4rem;
+	padding-bottom: 90px;
+	padding-top: 45px;
+}
+
+h5 {
+	font-size: 3rem;
+	line-height: 130%;
+	padding-bottom: 30px;
+}
+
+strong {
+	font-weight: 700;
+}
+
+h6 {
+	font-size: 2rem;
+	font-weight: 800;
+	text-align: center;
+	padding: 5px 0 15px 0;
+}
+
+
+.new-section img {
+	width: 50%;
+	display: block;
+	margin: auto;
+}
+
+.new-section {
+	border-top: 1px solid #2B2B2B;
+	padding-bottom: 60px;
+}
+
+.skill {
+	margin-bottom: 30px;
+}
+
+p {
+	font-size: 2rem;
+	line-height: 2.9rem;
+}
+
+.two-col {
+	text-align: justify;
+}
+
+.edu div {
+	margin-bottom: 45px;
+}
+
+a, a:link, a:hover, a:visited, a:active {
+	font-weight: 700;
+	text-decoration: none;
+	color: #4E5757;
+}
+
+a:hover {
+	color: #629D9D;
+}
+
+.contact p {
+	font-size: 3rem;
+}
+
+.email {
+	font-size: 6rem;
+	font-weight: 800;
+	line-height: 10rem;
+}
+
+@media (min-width: 992px) {
+	.two-col {
+		-moz-column-count: 2;
+       -moz-column-gap: 40px;
+       -webkit-column-count: 2;
+       -webkit-column-gap: 40px;
+       text-align: justify;
+	}
+}
+
+@media (max-width: 767px) {
+	.email {
+		font-size: 3rem;
+	}
+
+	.contact p {
+		font-size: 2rem;
+		line-height: 1rem;
+	}
+}
