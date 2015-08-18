@@ -1,4 +1,7 @@
 var main = function() {
+
+	// Scroll Function
+
 	var menuScroll = function(whereTo) {
 		var anchorTag = $("a[name='"+ whereTo +"']");
 		$('html, body').animate({scrollTop:anchorTag.offset().top}, '1000');
@@ -23,6 +26,13 @@ var main = function() {
 	$("#contact").click(function() {
 		menuScroll('contact');
 	});
+
+	// Collapse Navbar
+
+	$(".navbar-nav li a").click(function(event) {
+		$(".navbar-collapse").collapse('hide');
+	});
+
 };
 
 
