@@ -7,9 +7,9 @@ var main = function() {
 		$('html, body').animate({scrollTop:anchorTag.offset().top}, '1000');
 	};
 
-	$("#introduction").click(function() {
-		menuScroll('introduction');
-	});
+	//$("#introduction").click(function() {
+	//	menuScroll('introduction');
+	//});
 
 	$("#skills").click(function() {
 		menuScroll('skills');

@@ -42,7 +42,9 @@
 		    <!-- Collect the nav links, forms, and other content for toggling -->
 		    <div class="collapse navbar-collapse" id="navbarHeaderCollapse">
 		      <ul class="nav navbar-nav navbar-right">
+		      	<!--
 		        <li><a id="introduction" href="#">intro</a></li>
+		    	-->
 				<li><a id="skills" href="#">skills</a></li>
 				<li><a id="experience" href="#">experience</a></li>
 				<li><a id="education" href="#">education</a></li>
@@ -136,7 +138,7 @@
 					</div>
 
 					<div class="col-xs-12">
-						<p class="two-col">I have a strong understanding of <strong>Semantic HTML</strong> and its importance in providing meaning to the information contained within a modern web page. I am well versed in using <strong>CSS</strong> to style this information into a visually readable and appealing format for the user. I know how to use the <strong>JavaScript</strong> language and the <strong>jQuery</strong> library to add functionality to a web page. I also have a strong working knowledge of creating responsive, mobile-first layouts in the <strong>Bootstrap</strong> framework. I have a general understanding of the <strong>AngularJS</strong> framework and have worked with some of its basic features. I know how to use the <strong>WordPress</strong> web creation software, including coding custom themes with the <strong>PHP</strong> scripting language. I know how to use the <strong>Git</strong> version control system via the <strong>command line</strong>. I code by hand, with Sublime Text being my preferred text editor. I am extremely comfortable developing on both the <strong>Microsoft Windows</strong> and <strong>Mac OSX</strong> operating systems.</p>
+						<p class="two-col">I have a strong understanding of <strong>Semantic HTML</strong> and its importance in providing meaning to the information contained within a modern web page. I am well versed in using <strong>CSS</strong> to style this information into a visually readable and appealing format for the user. I know how to use the <strong>JavaScript</strong> language and the <strong>jQuery</strong> library to add functionality to a web page. I also have a strong working knowledge of creating responsive, mobile-first layouts in the <strong>Bootstrap</strong> framework. I have a general understanding of the <strong>AngularJS</strong> framework and have worked with some of its basic features. I know how to use the <strong>WordPress</strong> CMS, including coding custom themes with the <strong>PHP</strong> scripting language. I know how to use the <strong>Git</strong> version control system via the <strong>command line</strong>. I code by hand, with Sublime Text being my preferred text editor. I am extremely comfortable developing on both the <strong>Microsoft Windows</strong> and <strong>Mac OSX</strong> operating systems.</p>
 					</div>
 					
 
@@ -186,8 +188,8 @@
 
 					<div class="col-xs-12">
 						<p>You can contact me at:<br>
-						<a href="mailto:freemj12@gmail.com">
-							<span class="email">&#102;&#114;&#101;&#101;&#109;&#106;&#049;&#050;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</span>
+						<a href="mailto:justin@justinandrewfreeman.com">
+							<span class="email">justin@justinAndrewFreeman.com</span>
 						</a><br>I look forward to hearing from you!</p>
 					</div>
 
