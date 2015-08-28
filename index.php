@@ -61,7 +61,7 @@
 				<div class="col-xs-12">
 					<a name="introduction"></a>
 					<h1>Hello future employer! <br>My name is <strong>Justin, </strong><br>and I want to work for you.</h1>
-					<h5>I am an apsiring <strong>web developer</strong> looking for an <strong>entry-level opportunity</strong> in the field. I am a hard worker and I love to learn and challenge myself. Here's what I know so far:</h5>
+					<h5>I am an aspiring <strong>web developer</strong> looking for an <strong>entry-level opportunity</strong> in the field. I am a hard worker and I love to learn and challenge myself. Here's what I know so far:</h5>
 				</div>
 			</div><!--end intro-->
 
