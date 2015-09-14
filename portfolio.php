@@ -10,7 +10,7 @@
 	    <!--set window width to device width, and initial zoom to none-->
 	    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<title>Justin Freeman's Resume Site</title>
+		<title>Justin Freeman's Art and Design Portfolio</title>
 
 		<!--link to bootstrap css-->
 	    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
