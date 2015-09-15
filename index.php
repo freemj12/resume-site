@@ -49,6 +49,7 @@
 				<li><a id="experience" href="#">experience</a></li>
 				<li><a id="education" href="#">education</a></li>
 				<li><a id="contact" href="#">contact</a></li>
+				<li><a href="http://portfoliosite2.herokuapp.com/">design</a></li>
 		      </ul>
 		    </div><!-- /.navbar-collapse -->
 		  </div><!-- /.container-fluid -->
